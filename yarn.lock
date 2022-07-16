@@ -338,10 +338,10 @@ d3-chord@3:
   resolved "https://registry.yarnpkg.com/d3-color/-/d3-color-3.0.1.tgz#03316e595955d1fcd39d9f3610ad41bb90194d0a"
   integrity sha512-6/SlHkDOBLyQSJ1j1Ghs82OIUXpKWlR0hCsw0XrLSQhuUPuCSmLQ1QPH98vpnQxMUQM2/gfAkUEWsupVpd9JGw==
 
-d3-contour@3:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/d3-contour/-/d3-contour-3.0.1.tgz#2c64255d43059599cd0dba8fe4cc3d51ccdd9bbd"
-  integrity sha512-0Oc4D0KyhwhM7ZL0RMnfGycLN7hxHB8CMmwZ3+H26PWAG0ozNuYG5hXSDNgmP1SgJkQMrlG6cP20HoaSbvcJTQ==
+d3-contour@3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/d3-contour/-/d3-contour-3.0.2.tgz#eff71df949788ae5803b05a24cbb1f527c3ada65"
+  integrity sha512-n0zP1c2sqsdZEGStDhYXpzihrzmQHFcKXsXatX2jc+uJx9Va0kKB5qepJ9V0hbgFWM+05wrJ0Npo+dXKP3GZ8Q==
   dependencies:
     d3-array "2 - 3"
 
